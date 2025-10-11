@@ -1,6 +1,6 @@
 import toast from 'react-hot-toast'
 
-const API_BASE_URL = '/api'
+const API_BASE_URL = 'http://localhost:8000/api'
 
 // Generic API request handler
 export const apiRequest = async (endpoint, options = {}) => {
