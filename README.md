@@ -28,3 +28,7 @@ AI-powered influencer marketing platform that turns guesswork into data-driven s
    ```bash
    git clone <repository-url>
    cd icy-hackathon-winning/frontend# GLAHackathon
+
+
+## DEMO VIDEO LINK :-
+   Gdrive Link - https://drive.google.com/file/d/1M8FMsAnN7brCs6Y-VD9o4seW43dii6g3/view?usp=drivesdk
